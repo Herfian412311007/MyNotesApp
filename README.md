@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyNotesApp 📒
 
 Aplikasi Flutter sederhana untuk mengelola catatan.  
@@ -30,3 +31,6 @@ lib/
 ![Tambah Catatan](screenshot/mynotesapp_add.png)
 ![Detail Catatan](screenshot/mynotesapp_detail.png)
 ![Tambah Catatan](screenshot/mynotesapp_note.png)
+=======
+# MyNotesApp
+>>>>>>> 8c7ba44c6f4ce28cde179058f0cc96ef8ba7bdc3
